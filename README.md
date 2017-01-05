@@ -2,7 +2,7 @@
 It's easy to integrate with all the existing websites. Add some small modification to add popup in your web.
 
 How to Install :: <br />
-1) First Coopy the popup folder to your website directory <br />
+1) First Copy the popup folder to your website directory <br />
 2) Open index.php file <br />
 3) add libraby CSS link & library JS link <br />
 4) Put the Popup JS scripts into <head> </head> tag <br />
